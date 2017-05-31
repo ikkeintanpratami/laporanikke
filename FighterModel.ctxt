@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FighterModel
+comment1.params=wingPos
+comment1.target=int\ Gun1_XPos(int)
+comment2.params=wingPos
+comment2.target=int\ Gun1_YPos(int)
+comment3.params=wingPos
+comment3.target=int\ Gun2_XPos(int)
+comment4.params=wingPos
+comment4.target=int\ Gun2_YPos(int)
+numComments=5

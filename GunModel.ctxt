@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GunModel
+comment1.params=fighter
+comment1.target=void\ fireGun(Fighter)
+comment2.params=fighter
+comment2.target=void\ clockingFire(Fighter)
+numComments=3

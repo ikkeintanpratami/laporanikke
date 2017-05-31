@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WeakBullet
+comment1.params=
+comment1.target=WeakBullet()
+comment2.params=degree
+comment2.target=WeakBullet(int)
+comment3.params=
+comment3.target=void\ keepMove()
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Controller
+comment1.params=act\ movingSpeed
+comment1.target=void\ flyingControl(Fighter,\ int)
+comment2.params=act\ gunCollections
+comment2.target=void\ firingControl(Fighter,\ java.util.List)
+numComments=3
